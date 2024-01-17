@@ -1,0 +1,125 @@
+# Format of this document:
+# Each top-level key is an item that is referneced by any section schedule's "content" array
+# Each key has a "name" attribute (rendered on the calendar), a "page" attribute (which contains a link to the lesson) and an optional "type" attribute, which is a key into the _data/config.yml "types" dictionary.
+1a:
+  name: MLK day (no class) 
+  type: holiday
+1b:
+  name: Lec1-Introduction to Big Data Systems
+  page: /lectures/lec1-intro
+2a:
+  name: Lec2a-Basics of computer systems
+  page: /lectures/lec2-basics
+2b:
+  name: Lec2b-Processes & threads
+  page: /lectures/lec2-basics
+2c:
+  name: Lec2c-Caching & PyArrow
+  page: /lectures/lec2-basics
+3a:
+  name: Lec3a-Python parallelism & Dask
+  page: /lectures/lec3-py-parallel
+3b:
+  name: Lec3b-Pretrained ML models
+  page: /lectures/lec4-model-parameters
+4a:
+  name: Lec4a-MapReduce
+  page: /lectures/lec5-mr-gfs
+4b:
+  name: Lec4b-Google File System & HDFS
+  page: /lectures/lec5-mr-gfs
+5a:
+  name: Spark I
+  page: /modules/lec6-spark
+5b:
+  name: Spark II
+  page: /modules/lec6-spark
+projectIntro:
+  name: Project introduction
+  page: /lectures/project-intro
+projectBidding:
+  name: Project bidding
+  page: /lectures/project-intro
+6a:
+  name: Lec6-Ray
+  page: /lectures/lec6-ray
+7a:
+  name: Lec7-Python data engineering
+  page: /lectures/lec7-py-data-engineering
+midtermReview:
+  name: Midterm review
+  page: /lectures/midterm-review
+midterm:
+  name: Midterm
+springRecess:
+  name: Spring Recess (no class)
+  type: holiday
+8a:
+  name: Lec8a-Deep learning systems & caching
+  page: /lectures/lec8-ML-systems
+8b:
+  name: Lec8b-Federated learning systems
+  page: /lectures/lec8-ML-systems
+9a:
+  name: Lec9a-Cloud computing
+  page: /lectures/lec9-cloud-data-systems
+9b:
+  name: Lec9b-Serverless computing
+  page: /lectures/lec9-cloud-data-systems
+10a:
+  name: Lec10a-Database systems (Learned Index) 
+  page: /lectures/lec10-db-storage
+10b:
+  name: Lec10b-Cloud storage systems (AWS S3)
+  page: /lectures/lec10-db-storage
+10c:
+  name: Lec10c-Cloud storage systems (Amazon Dynamo)
+  page: /lectures/lec10-db-storage
+10d:
+  name: Lec10d-Cloud storage systems (AWS DynamoDB)
+  page: /lectures/lec10-db-storage
+11a:
+  name: Lec11-Datacenter-computing 
+  page: /modules/lec11-datacenter
+12a:
+  name: Lec12-TBD
+  page: /modules/1ec12-xxx
+a0:
+  name: Assignment 0
+  type: deadline
+  page: /assignments/a0
+a1:
+  name: Assignment 1
+  type: deadline
+  page: /assignments/a1
+a2:
+  name: Assignment 2
+  type: deadline
+  page: /assignments/a2
+a3:
+  name: Assignment 3
+  type: deadline
+  page: /assignments/a3
+projBid:
+  name: Project bid
+  type: deadline
+  page: /project/pb
+projOpenStudio:
+  name: Project open studio
+  page: /project/#checkpoint-1-proposal
+projCP1:
+  name: Project checkpoint 1
+  type: deadline
+  page: /project/#checkpoint-1-proposal
+projCP2:
+  name: Project checkpoint 2
+  type: deadline
+  page: /project/#checkpoint-2-primary-results
+projEverything:
+  name: Project everything
+  type: deadline
+  page: /project/#final-report
+workOnProj:
+  name: Work on project (class does not meet)
+presentation:
+  name: Project presentations

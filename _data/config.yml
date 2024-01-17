@@ -1,0 +1,40 @@
+deadlines:
+  '3':
+    Wed:
+      date: 2024/01/31 11:00am
+      content: a0
+  '5':
+    Wed:
+      date: 2024/02/14 11:00am
+      content: a1
+  '6':
+    Fri:
+      date: 2024/02/23 11:00am
+      content: projectBidding
+  '7':
+    Wed:
+      date: 2024/02/28 11:00am
+      content: a2
+  '10':
+    Mon:
+      date: 2024/03/18 11:00am
+      content: a3
+    Fri:
+      date: 2024/03/22 11:00am
+      content: projCP1
+  '13':
+    Fri:
+      date: 2024/04/12 11:00am
+      content: projCP2
+  '16':
+    Wed:
+      date: 2024/05/01 11:59pm
+      content: projEverything
+dates:
+  firstMonday: 2024/01/15
+  numWeeks: 16
+types:
+  default:
+    className: lesson
+  holiday:
+    className: holiday
