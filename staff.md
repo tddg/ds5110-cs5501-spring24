@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Office Hours
 
-Office hours will be held *TBD*.
+Office hours will be held virtually on Zoom.
 
 Links to join the TA and instructor office hours are posted in Canvas.
 
