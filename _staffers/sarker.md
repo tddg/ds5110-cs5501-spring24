@@ -1,7 +1,7 @@
 ---
 name: Arup Sarker
 role: Teaching Assistant
-photo: ArupSarker.png
+photo: ArupSarker.jpg
 email: djy8hg@virginia.edu
 office-hours: TBD
 ---
