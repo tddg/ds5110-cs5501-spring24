@@ -56,12 +56,6 @@ def shebang_test():
 def executable_test():
     if not os.access("count_python.sh", os.X_OK):
         return "count_python.sh does not have executable permissions"
-    #process = subprocess.run("/home/ubuntu/datasets/count_python.sh", shell=True)
-
-    #if process.returncode == 0:
-    #    return None
-    #if process.returncode != 0:
-    #    return "count_python.sh does not generate the correct output"
 
 if __name__ == "__main__":
     tester_main()
