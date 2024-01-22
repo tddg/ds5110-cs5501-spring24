@@ -19,8 +19,7 @@ nav_order: 1
 
 ## Resources
 
-* [Lecture snippets](https://docs.google.com/document/d/18c5CYdRn2GWk3TIgJolWWzh6e2vSB4dzSZfbMNboBZA/edit?usp=sharing)
-
+Go to [Resource Tab](/ds5110-cs5501-spring24/resources).
 
 
 ## Reading
