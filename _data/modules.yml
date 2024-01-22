@@ -8,7 +8,7 @@
   name: Lec1-Introduction to Big Data Systems
   page: /lectures/lec1-intro
 2a:
-  name: Lec2a-Basics of computer systems
+  name: Lec2a-Using AWS Academy, EC2, and Linux shell
   page: /lectures/lec2-basics
 2b:
   name: Lec2b-Processes & threads
