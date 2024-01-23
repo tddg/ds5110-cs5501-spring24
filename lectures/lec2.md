@@ -22,5 +22,8 @@ In this lecture, you will learn:
 
 ### Readings
 
+* **Lec2a:** [Designing Data-Intensive Applications ("Batch Processing with Unix Tools" of Chapter 10)](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch10.html#sec_batch_unix)
+
+
 
 
