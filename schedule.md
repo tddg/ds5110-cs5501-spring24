@@ -26,10 +26,10 @@ weeks:
   '3':
     Mon:
       date: 2024/01/29
-      content: 2b
+      content: 2c
     Wed:
       date: 2024/01/31
-      content: 2c
+      content: 2d
       note: "[Assignment 1](/ds5110-cs5501-spring24/assignments/a1) out"
   '4':
     Mon:

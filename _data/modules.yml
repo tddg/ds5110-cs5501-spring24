@@ -14,7 +14,10 @@
   name: Lec2b-Python numeric types
   page: /lectures/lec2-basics
 2c:
-  name: Lec2c-Caching & PyArrow
+  name: Lec2c-Processes, threads
+  page: /lectures/lec2-basics
+2d:
+  name: Lec2d-Caching & PyArrow
   page: /lectures/lec2-basics
 3a:
   name: Lec3a-Python parallelism & Dask
