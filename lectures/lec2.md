@@ -38,5 +38,6 @@ In this lecture, you will learn:
 
 * **Lec2a:** [video](https://edstem.org/us/courses/53518/discussion/4166115)
 * **Lec2b:** [video](https://edstem.org/us/courses/53518/discussion/4182049)
+* **Lec2c:** [video](https://edstem.org/us/courses/53518/discussion/4217013)
 
 
