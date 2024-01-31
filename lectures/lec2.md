@@ -45,3 +45,10 @@ In this lecture, you will learn:
 * **Lec2c:** [video](https://edstem.org/us/courses/53518/discussion/4217013)
 
 
+
+### Quizes
+
+* [Quiz 1](https://forms.gle/F4fifcTA4yUA5sN46)
+
+
+
