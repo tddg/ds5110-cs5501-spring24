@@ -23,14 +23,14 @@
   name: Lec3a-Python parallelism & Dask
   page: /lectures/lec3-py-parallel
 3b:
-  name: Lec3b-Pretrained ML models
-  page: /lectures/lec4-model-parameters
+  name: Lec3b-Google File System & HDFS
+  page: /lectures/lec4-gfs-mr
 4a:
   name: Lec4a-MapReduce
-  page: /lectures/lec5-mr-gfs
+  page: /lectures/lec4-gfs-mr
 4b:
-  name: Lec4b-Google File System & HDFS
-  page: /lectures/lec5-mr-gfs
+  name: Lec4b-Pretrained ML models
+  page: /lectures/lec5-ptm
 5a:
   name: Spark I
   page: /modules/lec6-spark
