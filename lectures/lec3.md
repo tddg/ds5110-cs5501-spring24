@@ -28,3 +28,7 @@ In this lecture, you will learn:
 
 * **Lec5a:** [Dask.distributed](https://distributed.dask.org/en/stable/) (optional), [Python multiprocessing](https://docs.python.org/3/library/multiprocessing.html) (optional)
 
+
+### Recordings
+
+* **Lecture 3 (A1 walkthru + caching worksheet):** [video](https://edstem.org/us/courses/53518/discussion/4281093)
