@@ -20,11 +20,11 @@
   name: Lec2d-Caching 
   page: /lectures/lec2-basics
 3a:
-  name: Lec3-Python parallelism & Dask
+  name: Lec3-Python parallelism
   page: /lectures/lec3-py-parallel
 3b:
-  name: Lec4a-Google File System & HDFS
-  page: /lectures/lec4-gfs-mr
+  name: Lec4a-Python parallelism (cont.) & Dask
+  page: /lectures/lec3-py-parallel
 4a:
   name: Lec4b-MapReduce
   page: /lectures/lec4-gfs-mr
