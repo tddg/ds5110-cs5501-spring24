@@ -47,7 +47,7 @@ In this lecture, you will learn:
 
 
 
-### Quizes
+### Quizzes
 
 * [Quiz 1](https://forms.gle/F4fifcTA4yUA5sN46)
 
