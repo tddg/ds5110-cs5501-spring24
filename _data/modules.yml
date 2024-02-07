@@ -20,17 +20,17 @@
   name: Lec2d-Caching 
   page: /lectures/lec2-basics
 3a:
-  name: Lec3-Python parallelism
+  name: Lec3a-Python parallelism
   page: /lectures/lec3-py-parallel
 3b:
-  name: Lec4a-Python parallelism (cont.) & Dask
+  name: Lec3b-Python parallelism (cont.) & Dask
   page: /lectures/lec3-py-parallel
 4a:
-  name: Lec4b-MapReduce
+  name: Lec4a-GFS-HDFS
   page: /lectures/lec4-gfs-mr
 4b:
-  name: Lec5-Pretrained ML models
-  page: /lectures/lec5-ptm
+  name: Lec4b-MapReduce
+  page: /lectures/lec4-gfs-mr
 5a:
   name: Spark I
   page: /modules/lec6-spark
