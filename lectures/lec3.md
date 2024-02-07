@@ -20,13 +20,13 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec5a:** Parallel processing in Python: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec3-python-parallel.pdf)
+* **Lec3:** Parallel processing in Python: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec3-python-parallel.pdf)
 
 
 
 ### Readings 
 
-* **Lec5a:** [Dask.distributed](https://distributed.dask.org/en/stable/) (optional), [Python multiprocessing](https://docs.python.org/3/library/multiprocessing.html) (optional)
+* **Lec3:** [Dask.distributed](https://distributed.dask.org/en/stable/) (optional), [Python multiprocessing](https://docs.python.org/3/library/multiprocessing.html) (optional)
 
 
 ### Recordings
