@@ -32,7 +32,9 @@ In this lecture, you will learn:
 
 ### Recordings
 
-* **Lec3a (A1 walkthru + caching worksheet):** [video](https://edstem.org/us/courses/53518/discussion/4281093)
+* **Lec3a (A1 walkthru + caching worksheet + process parallelism):** [video](https://edstem.org/us/courses/53518/discussion/4281093)
+* **Lec3b (thread parallelism + task parallelism + demo):** [video](https://edstem.org/us/courses/53518/discussion/4292746)
+
 
 
 ### Quizzes
