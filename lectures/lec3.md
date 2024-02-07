@@ -31,4 +31,4 @@ In this lecture, you will learn:
 
 ### Recordings
 
-* **Lecture 3 (A1 walkthru + caching worksheet):** [video](https://edstem.org/us/courses/53518/discussion/4281093)
+* **Lec3a (A1 walkthru + caching worksheet):** [video](https://edstem.org/us/courses/53518/discussion/4281093)
