@@ -20,7 +20,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec3:** Parallel processing in Python: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec3-python-parallel.pdf)
+* **Lec3:** Parallel processing in Python: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec3-python-parallel.pdf), [python parallelism notebook demo](https://github.com/tddg/ds5110-cs5501-spring24/blob/main/assets/datasets/python_parallelism.ipynb), [dask dag notebook demo](https://github.com/tddg/ds5110-cs5501-spring24/blob/main/assets/datasets/dask_demo.ipynb)
 
 
 
