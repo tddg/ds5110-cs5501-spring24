@@ -27,10 +27,10 @@
   page: /lectures/lec3-py-parallel
 4a:
   name: Lec4a-GFS-HDFS
-  page: /lectures/lec4-gfs-mr
+  page: /lectures/lec4-gfs-mapredue
 4b:
   name: Lec4b-MapReduce
-  page: /lectures/lec4-gfs-mr
+  page: /lectures/lec4-gfs-mapreduce
 5a:
   name: Spark I
   page: /modules/lec6-spark
