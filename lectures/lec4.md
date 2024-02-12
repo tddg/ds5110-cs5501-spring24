@@ -31,3 +31,5 @@ In this lecture, you will learn:
 
 ### Recordings
 
+* **Lec4a:** [video](https://edstem.org/us/courses/53518/discussion/4330064)
+
