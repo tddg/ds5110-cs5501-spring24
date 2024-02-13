@@ -102,7 +102,7 @@ with a list of ideas around Week 4.
 Your grade will be calculated as follows:
 
 * 10% quizzes
-* 5%  participation
+* 5%  participation (paper review forms)
 * 5%  assignment 0
 * 10% assignment 1
 * 10% assignment 2
