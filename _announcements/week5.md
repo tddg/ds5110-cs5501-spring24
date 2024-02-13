@@ -5,5 +5,6 @@ date: 2024-02-11
 ---
 
 * Lecture 4a's slides are posted.
+* Lecture 4b's slides are posted.
 
 {: .fs-5 }
