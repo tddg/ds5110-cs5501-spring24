@@ -34,7 +34,8 @@ In this lecture, you will learn:
 
 ### Recordings
 
-* **Lec4a:** [video](https://edstem.org/us/courses/53518/discussion/4330064)
+* **Lec4a (first half):** [video](https://edstem.org/us/courses/53518/discussion/4330064)
+* **Lec4a (last bit) + HDFS demo + Lec4b (first half):** [video](https://edstem.org/us/courses/53518/discussion/4349229)
 
 
 ### Quiz
