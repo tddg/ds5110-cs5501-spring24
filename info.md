@@ -49,7 +49,7 @@ To access the O'Reilly text book ([Designing Data-Intensive Applications (1st Ed
 
 
 
-## Class participation
+## Class participation and required readings
 
 Class participation is required. We will discuss the design and the
 use (application) of a variety of modern big data systems that we'll
@@ -63,11 +63,14 @@ Systems** today.
 Specifically, the instructor (prof or the invited guest speaker) will
 lead the lecture. In some lectures we will have moderate
 discussions about the papers/articles that we will have all read
-before each class. You are encouraged to participate in discussions
-as your performance in class forms up to 5% of your overall grade, so
-it does matter that you 1) show up to class **AND** 2) participate in
-the discussion (which in fact requires you to do the required
-readings).
+before each class. You are encouraged to participate in discussions.
+To stimulate better discussion, you need to complete the assigned reading
+assignments, e.g., a research paper about a topic. One way to test your
+understanding is to fill out a required review form for that reading assignment.
+The review forms in total is worth 5% of your overall grade, so
+it does matter that you 1) submit the review forms on time **AND** 2)
+participate in the discussion (which in fact requires you to do the
+required readings).
 
 I also strongly encourage you to discuss the assigned/optional
 readings (papers/tech reports/online documentations) with other students
@@ -83,9 +86,9 @@ We will have three Programming Assignments during the first half of the
 semester:
 
 * [Assignment 0](/ds5110-cs5501-spring24/assignments/a0): Using AWS Academy, EC2, and Linux shell.
-* [Assignment 1](/ds5110-cs5501-spring24/assignments/a1): A tour of Apache HDFS and Spark.
-* [Assignment 2](/ds5110-cs5501-spring24/assignments/a2): Dask.distributed analytics.
-* [Assignment 3](/ds5110-cs5501-spring24/assignments/a3): Ray RL training.
+* [Assignment 1](/ds5110-cs5501-spring24/assignments/a1): Parallelizing Python processing with Dask.
+* [Assignment 2](/ds5110-cs5501-spring24/assignments/a2): A tour of Apache HDFS and Spark.
+* [Assignment 3](/ds5110-cs5501-spring24/assignments/a3): A deeper dive with Ray.
 
 
 
