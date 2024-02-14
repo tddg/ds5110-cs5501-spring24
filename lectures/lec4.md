@@ -20,7 +20,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec4a:** GFS and HDFS: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec4a-gfs-hdfs.pdf)
+* **Lec4a:** GFS and HDFS: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec4a-gfs-hdfs.pdf) [slides+notes](/ds5110-cs5501-spring24/assets/docs/lec4a-gfs-hdfs+notes.pdf)
 * **Lec4b:** (Hadoop) MapReduce: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec4b-mapreduce.pdf)
 
 
