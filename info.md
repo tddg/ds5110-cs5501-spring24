@@ -120,7 +120,7 @@ There will be a midterm exam scheduled around Week 8 (taken online).
 
 ### Quizzes
 
-There will be a short Canvas quiz due at the end of most Wednesdays. Make sure you know the rules regarding what is allowed and what is not.
+There will be a short quiz due at the end of most Wednesdays. Make sure you know the rules regarding what is allowed and what is not.
 
 #### Allowed
 
