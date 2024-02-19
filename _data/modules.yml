@@ -32,11 +32,11 @@
   name: Lec4b-MapReduce
   page: /lectures/lec4-gfs-mapreduce
 5a:
-  name: Spark I
-  page: /modules/lec6-spark
+  name: Spark RDD
+  page: /modules/lec5-spark
 5b:
-  name: Spark II
-  page: /modules/lec6-spark
+  name: Spark internals and performance
+  page: /modules/lec5-spark
 projectIntro:
   name: Project introduction
   page: /lectures/project-intro
