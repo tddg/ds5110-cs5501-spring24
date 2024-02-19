@@ -7,14 +7,14 @@ deadlines:
     Wed:
       date: 2024/02/14 11:00am
       content: a1
-  '6':
-    Fri:
-      date: 2024/02/23 11:00am
-      content: projectBidding
   '7':
     Wed:
       date: 2024/02/28 11:00am
       content: a2
+  '7':
+    Fri:
+      date: 2024/03/01 11:00am
+      content: projectBidding
   '10':
     Mon:
       date: 2024/03/18 11:00am
