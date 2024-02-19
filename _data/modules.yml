@@ -33,10 +33,10 @@
   page: /lectures/lec4-gfs-mapreduce
 5a:
   name: Spark RDD
-  page: /modules/lec5-spark
+  page: /lectures/lec5-spark
 5b:
   name: Spark internals and performance
-  page: /modules/lec5-spark
+  page: /lectures/lec5-spark
 projectIntro:
   name: Project introduction
   page: /lectures/project-intro
