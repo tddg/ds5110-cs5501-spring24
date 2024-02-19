@@ -44,11 +44,11 @@ projectBidding:
   name: Project bidding
   page: /lectures/project-intro
 6a:
-  name: Lec6-Ray
+  name: Lec6a-Ray I
   page: /lectures/lec6-ray
 7a:
-  name: Lec7-Python data engineering
-  page: /lectures/lec7-py-data-engineering
+  name: Lec6b-Ray II
+  page: /lectures/lec6-ray
 midtermReview:
   name: Midterm review
   page: /lectures/midterm-review
@@ -61,7 +61,7 @@ springRecess:
   name: Lec8a-Deep learning systems & caching
   page: /lectures/lec8-ML-systems
 8b:
-  name: Lec8b-Federated learning systems
+  name: Lec8b-Pre-trainde models
   page: /lectures/lec8-ML-systems
 9a:
   name: Lec9a-Cloud computing
