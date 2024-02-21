@@ -35,3 +35,10 @@ In this lecture, you will learn:
 
 * **Lec5a (w/ Spark setup demo):** [video](https://edstem.org/us/courses/53518/discussion/4387847)
 
+
+
+### Quiz
+
+* [Quiz 4](https://forms.gle/nSaw5ZPK5piEv6X98)
+
+

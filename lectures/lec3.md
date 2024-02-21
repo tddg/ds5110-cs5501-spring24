@@ -37,6 +37,6 @@ In this lecture, you will learn:
 
 
 
-### Quizzes
+### Quiz
 
-* [Quiz2](https://forms.gle/jDGUSSfGQ9JsZCEV8)
+* [Quiz 2](https://forms.gle/jDGUSSfGQ9JsZCEV8)
