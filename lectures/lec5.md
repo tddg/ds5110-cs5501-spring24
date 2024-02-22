@@ -34,6 +34,7 @@ In this lecture, you will learn:
 ### Recordings
 
 * **Lec5a (w/ Spark setup demo):** [video](https://edstem.org/us/courses/53518/discussion/4387847)
+* **Lec5b (w/ PageRank walkthru):** [video](https://edstem.org/us/courses/53518/discussion/4406324)
 
 
 
