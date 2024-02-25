@@ -20,7 +20,8 @@ In this lecture, you will learn:
 ### Lecture slides
 
 * **Lec5a:** Spark RDD: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec5a-spark-rdd.pdf)
-* **Lec5b:** Spark internals and performance: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec5b-spark-perf.pdf)
+* **Lec5b:** Spark internals and performance: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec5b-spark-perf.pdf), 
+[PageRank example](/ds5110-cs5501-spring24/assets/docs/pr_example.pdf)
 
 
 
@@ -34,7 +35,7 @@ In this lecture, you will learn:
 ### Recordings
 
 * **Lec5a (w/ Spark setup demo):** [video](https://edstem.org/us/courses/53518/discussion/4387847)
-* **Lec5b (w/ PageRank walkthru):** [video](https://edstem.org/us/courses/53518/discussion/4406324)
+* **Lec5b (w/ PageRank example walkthru):** [video](https://edstem.org/us/courses/53518/discussion/4406324)
 
 
 
