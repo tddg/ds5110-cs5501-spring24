@@ -15,4 +15,6 @@ nav_order: 6
 
 ### Lecture video
 
+* [Video](https://edstem.org/us/courses/53518/discussion/4442682)
+
 
