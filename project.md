@@ -18,13 +18,13 @@ nav_order: 6
 
 2. Friday, 04/12, 11:00 am: Project checkpoint 2
 
-	* For system/tool building projects, you are expected to show prototypes.
+	* For data systems projects, you are expected to show prototypes.
 	* For data analysis projects, you are expected to show general statistics of your datasets and concrete examples or case studies.
 
 
 3. Friday, 05/01, 11:59 pm: Project everything due
 
-	* For systems project, you are expected to deliver a prototype and show some evaluation results.
+	* For data systems project, you are expected to deliver a prototype and show some evaluation results.
 	* For data analysis projects, you are expected to show your numbers and findings.
 
 
