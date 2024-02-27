@@ -39,10 +39,10 @@
   page: /lectures/lec5-spark
 projectIntro:
   name: Project introduction
-  page: /lectures/project-intro
+  page: /project
 projectBidding:
   name: Project bidding
-  page: /lectures/project-intro
+  page: /project
 6a:
   name: Lec6a-Ray I
   page: /lectures/lec6-ray
