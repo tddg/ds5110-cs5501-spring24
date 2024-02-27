@@ -53,7 +53,7 @@ midtermReview:
   name: Midterm review
   page: /lectures/midterm-review
 midterm:
-  name: Midterm
+  name: Midterm (**3pm - 4:45pm**)
 springRecess:
   name: Spring Recess (no class)
   type: holiday
