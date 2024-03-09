@@ -69,6 +69,9 @@ springRecess:
 9b:
   name: Lec9b-Serverless computing
   page: /lectures/lec9-cloud-data-systems
+9c:
+  name: Lec9b-Serverless ML
+  page: /lectures/lec9-cloud-data-systems
 10a:
   name: Lec10a-Database systems (Learned Index) 
   page: /lectures/lec10-db-storage
@@ -76,10 +79,10 @@ springRecess:
   name: Lec10b-Cloud storage systems (AWS S3)
   page: /lectures/lec10-db-storage
 10c:
-  name: Lec10c-Cloud storage systems (Amazon Dynamo)
+  name: Lec10c-Cloud storage systems (Amazon Dynamo I)
   page: /lectures/lec10-db-storage
 10d:
-  name: Lec10d-Cloud storage systems (AWS DynamoDB)
+  name: Lec10d-Cloud storage systems (AWS Dynamo II)
   page: /lectures/lec10-db-storage
 11a:
   name: Lec11-Datacenter-computing 
