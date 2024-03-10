@@ -44,7 +44,7 @@ projectBidding:
   name: Project bidding
   page: /project
 6a:
-  name: Lec6a-Ray APIs
+  name: Lec6a-Ray API
   page: /lectures/lec6-ray
 7a:
   name: Lec6b-Ray internals
