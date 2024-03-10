@@ -44,10 +44,10 @@ projectBidding:
   name: Project bidding
   page: /project
 6a:
-  name: Lec6a-Ray I
+  name: Lec6a-Ray APIs
   page: /lectures/lec6-ray
 7a:
-  name: Lec6b-Ray II
+  name: Lec6b-Ray internals
   page: /lectures/lec6-ray
 midtermReview:
   name: Midterm review
@@ -70,7 +70,7 @@ springRecess:
   name: Lec9b-Serverless computing
   page: /lectures/lec9-cloud-data-systems
 9c:
-  name: Lec9b-Serverless ML
+  name: Lec9c-Serverless ML
   page: /lectures/lec9-cloud-data-systems
 10a:
   name: Lec10a-Database systems (Learned Index) 
