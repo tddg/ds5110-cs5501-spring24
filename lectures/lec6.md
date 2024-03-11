@@ -24,8 +24,8 @@ In this lecture, you will learn:
 
 ### Readings 
 
-* **Lec6a:** [Ray paper](https://www.usenix.org/conference/osdi18/presentation/moritz)
-
+* **Lec6a:** [Ray white paper](https://docs.google.com/document/d/1tBw9A4j62ruI5omIJbMxly-la5w4q_TjyJgJL_jN2fI/preview) (Overview),  [Ray paper](https://www.usenix.org/conference/osdi18/presentation/moritz)
+* **Lec6b:** [Ray white paper](https://docs.google.com/document/d/1tBw9A4j62ruI5omIJbMxly-la5w4q_TjyJgJL_jN2fI/preview) (Architecture Overview)
 
 
 ### Recordings
