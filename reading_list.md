@@ -31,7 +31,7 @@ incrementally updated to include more papers as we go.
 
 
 
-### Cloud Storage Systems
+### Cloud Computing and Storage Systems
 
 **(required)** [Occupy the Cloud: Distributed Computing for the 99%](https://arxiv.org/pdf/1702.04024.pdf) [ACM SoCC 2017]
 
