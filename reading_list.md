@@ -21,7 +21,7 @@ incrementally updated to include more papers as we go.
 
 
 
-### Machine Learning Systems
+### Systems for ML and ML for Systems
 
 [Ray v2 Architecture](https://docs.google.com/document/d/1tBw9A4j62ruI5omIJbMxly-la5w4q_TjyJgJL_jN2fI/preview) (Ray white paper)
 
