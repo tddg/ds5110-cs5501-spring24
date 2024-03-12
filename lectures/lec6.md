@@ -30,5 +30,6 @@ In this lecture, you will learn:
 
 ### Recordings
 
+* **Lec6a:** [video](https://edstem.org/us/courses/53518/discussion/4553496)
 
 
