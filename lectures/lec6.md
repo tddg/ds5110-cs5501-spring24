@@ -19,7 +19,7 @@ In this lecture, you will learn:
 ### Lecture slides
 
 * **Lec6a:** Ray API: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec6a-ray-api.pdf)
-* **Lec6b:** Ray internals: 
+* **Lec6b:** Ray internals: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec6a-ray-internals.pdf)
 
 
 ### Readings 
