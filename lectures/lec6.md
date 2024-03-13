@@ -13,7 +13,8 @@ In this lecture, you will learn:
 
 * **Lec6a:** the motivation of Ray
 * **Lec6a:** the difference between Ray task API and actor API
-
+* **Lec6b:** how tasks and actors are managed under the hood
+* **Lec6b:** the concepts of a control plane and a data plane
 
 
 ### Lecture slides
@@ -31,5 +32,6 @@ In this lecture, you will learn:
 ### Recordings
 
 * **Lec6a:** [video](https://edstem.org/us/courses/53518/discussion/4553496)
+* **Lec6b:** [video](#)
 
 
