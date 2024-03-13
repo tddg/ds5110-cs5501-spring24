@@ -35,3 +35,7 @@ In this lecture, you will learn:
 * **Lec6b:** [video](#)
 
 
+### Quiz
+
+* [Quiz 5](https://forms.gle/oHkAACRACh5xufuC8)
+
