@@ -35,8 +35,9 @@ incrementally updated to include more papers as we go.
 
 **(required)** [Occupy the Cloud: Distributed Computing for the 99%](https://arxiv.org/pdf/1702.04024.pdf) [ACM SoCC 2017]
 
+**(required)** [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) [Guest post from Andy Warfield, VP and distinguished engineer over AWS S3]
+
 **(required)** [Dynamo: Amazon’s Highly Available Key-value Store](https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store) [ACM SOSP 2007]
 
-**(required)** [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) [Guest post from Andy Warfield, VP and distinguished engineer over AWS S3]
 
 
