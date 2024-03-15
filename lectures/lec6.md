@@ -19,7 +19,8 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec6a:** Ray API: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec6a-ray-api.pdf)
+* **Lec6a:** Ray API: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec6a-ray-api.pdf),
+[Ray tasks & actors Notebook](https://github.com/tddg/ds5110-cs5501-spring24/blob/main/assets/datasets/ray_task_actor_demo.ipynb)
 * **Lec6b:** Ray internals: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec6b-ray-internals.pdf), [Ray maze Notebook](https://github.com/tddg/ds5110-cs5501-spring24/blob/main/assets/datasets/ray_maze_demo.ipynb)
 
 
