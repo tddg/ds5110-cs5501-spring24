@@ -59,10 +59,10 @@ springRecess:
   type: holiday
 7a:
   name: Lec7a-Deep learning systems & caching
-  page: /lectures/lec7-ML-systems
+  page: /lectures/lec7-ml-systems
 7b:
   name: Lec7b-Pre-trained models
-  page: /lectures/lec7-ML-systems
+  page: /lectures/lec7-ml-systems
 8a:
   name: Lec8a-Cloud computing
   page: /lectures/lec8-cloud-data-systems
