@@ -94,7 +94,7 @@ services to best fit into your workflow.
 before!**
 
 Your checkpoint #2 report should be built atop your checkpoint #1
-report, and will be about 3-4 pages is fine. 
+report, and should be about 3-4 pages. 
 The **end product** of this milestone is a description about:
 1. your primary results and any insights/observations,
 2. TODOs that you haven't completed but plan to get done by the end of the semester. 
