@@ -34,3 +34,7 @@ In this lecture, you will learn:
 * **Lec7a:** [video](https://edstem.org/us/courses/53518/discussion/4593216)
 
 
+### Quiz
+
+* [Quiz 6](https://forms.gle/9nDT5FS3dej2cVQt6)
+
