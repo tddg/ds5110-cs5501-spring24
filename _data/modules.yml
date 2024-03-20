@@ -61,7 +61,7 @@ springRecess:
   name: Lec7a-Deep learning systems & caching
   page: /lectures/lec7-ml-systems
 7b:
-  name: Lec7b-Pre-trained models
+  name: Lec7b-Model compression
   page: /lectures/lec7-ml-systems
 8a:
   name: Lec8a-Cloud computing
