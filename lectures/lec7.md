@@ -32,6 +32,7 @@ In this lecture, you will learn:
 ### Recordings
 
 * **Lec7a:** [video](https://edstem.org/us/courses/53518/discussion/4593216)
+* **Lec7b:** [video](https://edstem.org/us/courses/53518/discussion/4620768)
 
 
 ### Quiz
