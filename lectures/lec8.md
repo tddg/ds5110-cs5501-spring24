@@ -11,14 +11,19 @@ nav_order: 9
 
 In this lecture, you will learn:
 
-* **Lec7a:** know basic cloud billing model
-* **Lec7a:** know IaaS and PaaS and their differences
-* **Lec7a:** understand basic ideas behind containerization and container orchestration
+* **Lec8a:** know basic cloud billing model
+* **Lec8a:** know IaaS and PaaS and their differences
+* **Lec8a:** understand basic ideas behind containerization and container orchestration
+* **Lec8b:** understand the motivation behind serverless computing
+* **Lec8b:** know the different generations of virtualization technology
+* **Lec8b:** know the limitations of today's FaaS
+
 
 
 ### Lecture slides
 
 * **Lec8a:** Cloud computing: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec8a-cloud-computing.pdf)
+* **Lec8b:** Serverless computing: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec8b-serverless-computing.pdf)
 
 
 ### Readings 
