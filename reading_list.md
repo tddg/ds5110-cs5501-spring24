@@ -33,6 +33,8 @@ incrementally updated to include more papers as we go.
 
 ### Cloud Computing and Storage Systems
 
+**(required)** [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf) [Tech report]
+
 **(required)** [Occupy the Cloud: Distributed Computing for the 99%](https://arxiv.org/pdf/1702.04024.pdf) [ACM SoCC 2017]
 
 **(required)** [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) [Guest post from Andy Warfield, VP and distinguished engineer over AWS S3]
