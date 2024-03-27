@@ -23,7 +23,7 @@ In this lecture, you will learn:
 ### Lecture slides
 
 * **Lec8a:** Cloud computing: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec8a-cloud-computing.pdf)
-* **Lec8b:** Serverless computing: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec8b-serverless-computing.pdf)
+* **Lec8b:** Serverless computing: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec8b-serverless-computing.pdf), [slides+notes for virtualization tradeoffs](/ds5110-cs5501-spring24/assets/docs/lec8b-serverless-computing+notes.pdf)
 
 
 ### Readings 
