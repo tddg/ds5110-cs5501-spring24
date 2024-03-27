@@ -40,5 +40,5 @@ In this lecture, you will learn:
 
 ### Quiz
 
-* [Quiz 7](https://forms.gle/hpDbkr5SbqASv2sD7)
+* [Quiz 7](https://forms.gle/d7vpQA7XE3G9SDaz9)
 
