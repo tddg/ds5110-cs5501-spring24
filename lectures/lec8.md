@@ -38,3 +38,7 @@ In this lecture, you will learn:
 * **Lec8b:** [video]()
 
 
+### Quiz
+
+* [Quiz 7](https://forms.gle/hpDbkr5SbqASv2sD7)
+
