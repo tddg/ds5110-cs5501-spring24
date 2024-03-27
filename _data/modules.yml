@@ -65,13 +65,13 @@ springRecess:
   page: /lectures/lec7-ml-systems
 8a:
   name: Lec8a-Cloud computing
-  page: /lectures/lec8-cloud-data-systems
+  page: /lectures/lec8-cloud-computing-systems
 8b:
   name: Lec8b-Serverless computing
-  page: /lectures/lec8-cloud-data-systems
+  page: /lectures/lec8-cloud-computing-systems
 8c:
   name: Lec8c-Serverless data analytics
-  page: /lectures/lec8-cloud-data-systems
+  page: /lectures/lec8-cloud-computing-systems
 9a:
   name: Lec9a-ML for database systems (Learned Index) 
   page: /lectures/lec9-db-storage
@@ -82,14 +82,11 @@ springRecess:
   name: Lec9c-Cloud storage systems (Amazon Dynamo I)
   page: /lectures/lec9-db-storage
 9d:
-  name: Lec9d-Cloud storage systems (AWS Dynamo II)
+  name: Lec9d-Cloud storage systems (Amazon Dynamo II)
   page: /lectures/lec9-db-storage
 10a:
-  name: Lec10-TBD
-  page: /modules/lec10-tbd
-12a:
-  name: Lec12-TBD
-  page: /modules/1ec12-xxx
+  name: Lec9e-Cloud storage systems (serverless functions as a storage)
+  page: /modules/lec9-db-storage
 a0:
   name: Assignment 0
   type: deadline

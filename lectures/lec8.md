@@ -1,7 +1,7 @@
 ---
 layout: module
-title: "Lecture 8: Cloud data systems"
-permalink: /lectures/lec8-cloud-data-systems
+title: "Lecture 8: Cloud computing systems"
+permalink: /lectures/lec8-cloud-computing-systems
 parent: Lectures
 nav_order: 9
 
