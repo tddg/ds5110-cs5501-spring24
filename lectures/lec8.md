@@ -34,7 +34,7 @@ In this lecture, you will learn:
 
 * **Lec8a:** [A Berkeley view of cloud computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf) (*optional*)
 * **Lec8b:** [A Berkeley view on serverless computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf) 
-* **Lec8c:** [PyWren](https://arxiv.org/pdf/1702.04024.pdf) [Wukong](https://tddg.github.io/assets/pdf/socc20-wukong.pdf)
+* **Lec8c:** [PyWren](https://arxiv.org/pdf/1702.04024.pdf),  [Wukong](https://tddg.github.io/assets/pdf/socc20-wukong.pdf)
 
 
 
