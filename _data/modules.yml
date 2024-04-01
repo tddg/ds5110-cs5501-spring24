@@ -75,16 +75,16 @@ springRecess:
 9a:
   name: Lec9a-ML for database systems (Learned Index) 
   page: /lectures/lec9-db-storage
-9b:
+10a:
   name: Lec9b-Cloud storage systems (AWS S3)
   page: /lectures/lec9-db-storage
-9c:
+10b:
   name: Lec9c-Cloud storage systems (Amazon Dynamo I)
   page: /lectures/lec9-db-storage
-9d:
+10c:
   name: Lec9d-Cloud storage systems (Amazon Dynamo II)
   page: /lectures/lec9-db-storage
-10a:
+10d:
   name: Lec9e-Cloud storage systems (serverless functions as a storage)
   page: /modules/lec9-db-storage
 a0:
