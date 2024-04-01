@@ -42,6 +42,7 @@ In this lecture, you will learn:
 
 * **Lec8a:** [video](https://edstem.org/us/courses/53518/discussion/4633946)
 * **Lec8b:** [video](https://edstem.org/us/courses/53518/discussion/4646207)
+* **Lec8c:** [video](https://edstem.org/us/courses/53518/discussion/4671515)
 
 
 ### Quiz
