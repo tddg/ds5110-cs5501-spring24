@@ -95,7 +95,7 @@ weeks:
       content: 8c
     Wed:
       date: 2024/04/03
-      content: 9a
+      content: 9
   '13':
     Mon:
       date: 2024/04/08

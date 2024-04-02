@@ -72,8 +72,8 @@ springRecess:
 8c:
   name: Lec8c-Serverless data analytics
   page: /lectures/lec8-cloud-computing-systems
-9a:
-  name: Lec9a-ML for database systems (Learned Index) 
+9:
+  name: Lec9-ML for database systems (Learned Index) 
   page: /lectures/lec9-db-storage
 10a:
   name: Lec10a-Cloud storage systems (AWS S3)
