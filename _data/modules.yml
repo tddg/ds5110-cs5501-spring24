@@ -74,7 +74,7 @@ springRecess:
   page: /lectures/lec8-cloud-computing-systems
 9a:
   name: Lec9-ML for database systems (Learned Index) 
-  page: /lectures/lec9-db-storage
+  page: /lectures/lec9-ml-for-databases
 10a:
   name: Lec10a-Cloud storage systems (AWS S3)
   page: /lectures/lec10-db-storage
