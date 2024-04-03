@@ -32,4 +32,7 @@ In this lecture, you will learn:
 * **Lec9:** [video]()
 
 
+### Quiz
+
+* [Quiz 8](https://forms.gle/kccSPax5D2tb1bYv8)
 
