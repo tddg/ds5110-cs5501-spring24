@@ -18,7 +18,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec9:** Learned index: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec9-learned-index.pdf)
+* **Lec9:** Learned index: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec9-learned-index.pdf), [RMI Notebook](https://github.com/tddg/ds5110-cs5501-spring24/blob/main/assets/datasets/rmi_demo.ipynb)
 
 
 ### Readings 
