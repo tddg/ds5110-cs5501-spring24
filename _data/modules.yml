@@ -77,16 +77,16 @@ springRecess:
   page: /lectures/lec9-ml-for-databases
 10a:
   name: Lec10a-Cloud storage systems (AWS S3)
-  page: /lectures/lec10-db-storage
+  page: /lectures/lec10-cloud-storage
 10b:
   name: Lec10b-Cloud storage systems (Amazon Dynamo I)
-  page: /lectures/lec10-db-storage
+  page: /lectures/lec10-cloud-storage
 10c:
   name: Lec10c-Cloud storage systems (Amazon Dynamo II)
-  page: /lectures/lec10-db-storage
+  page: /lectures/lec10-cloud-storage
 10d:
   name: Lec10d-Cloud storage systems (serverless functions as a storage)
-  page: /lectures/lec10-db-storage
+  page: /lectures/lec10-cloud-storage
 a0:
   name: Assignment 0
   type: deadline
