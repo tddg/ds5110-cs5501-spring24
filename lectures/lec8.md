@@ -14,9 +14,11 @@ In this lecture, you will learn:
 * **Lec8a:** know basic cloud billing model
 * **Lec8a:** know IaaS and PaaS and their differences
 * **Lec8a:** understand basic ideas behind containerization and container orchestration
+
 * **Lec8b:** understand the motivation behind serverless computing
 * **Lec8b:** know the different generations of virtualization technology
 * **Lec8b:** know the limitations of today's FaaS
+
 * **Lec8c:** understand the challenges of running stateful computations on FaaS
 * **Lec8c:** know how PyWren works and its limitations
 * **Lec8c:** know how Wukong addresses some of PyWren's limitations
