@@ -25,7 +25,7 @@ In this lecture, you will learn:
 
 ### Readings 
 
-* **Lec9:** [Andy Warfield's interview about S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+* **Lec10a:** [Andy Warfield's interview about S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 
 
 
