@@ -15,6 +15,7 @@ In this lecture, you will learn:
 * **Lec10a:** know different data placement and load balancing strategies of large-scale storage systems like S3
 * **Lec10a:** know basic RAID algorithms (closely related to erasure coding used by S3)
 
+
 * **Lec10b:** identify strengths and weaknesses of different partitioning approaches
 * **Lec10b:** interpret how token ring works
 * **Lec10b:** describe how gossip protocol works
