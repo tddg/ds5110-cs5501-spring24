@@ -32,7 +32,7 @@ In this lecture, you will learn:
 ### Readings 
 
 * **Lec10a:** [Andy Warfield's interview about S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
-* **Lec10b:** [Dynamo paper](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
+* **Lec10b:** [Dynamo paper](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html), [DynamoDB -- 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later) (optional)
 
 
 
