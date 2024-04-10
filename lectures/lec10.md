@@ -41,4 +41,7 @@ In this lecture, you will learn:
 * **Lec10a:** [video](https://edstem.org/us/courses/53518/discussion/4719904)
 
 
+### Quiz
+
+* [Quiz 9](https://docs.google.com/forms/d/e/1FAIpQLSeNa0iegFd68ZTRMjFX_3v50KQSTR5gT5Pjt6smgcoaTvwYhA/viewform?usp=sf_link)
 
