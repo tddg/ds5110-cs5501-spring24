@@ -32,6 +32,7 @@ In this lecture, you will learn:
 * **Lec10a:** AWS S3: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec10a-aws-s3.pdf)
 * **Lec10b:** Amazon Dynamo I: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec10b-amazon-dynamo-i.pdf)
 * **Lec10c:** Amazon Dynamo II: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec10c-amazon-dynamo-ii.pdf)
+* **Lec10d:** Serverless function storage: [slides pdf](/ds5110-cs5501-spring24/assets/docs/lec10d-serverless-function-storage.pdf)
 
 
 
@@ -39,6 +40,7 @@ In this lecture, you will learn:
 
 * **Lec10a:** [Andy Warfield's interview about S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 * **Lec10b+10c:** [Dynamo paper](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html), [DynamoDB -- 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later) (optional)
+* **Lec10d:** [InfiniCache paper](https://www.usenix.org/conference/fast20/presentation/wang-ao) (optional), [InfiniStore paper](https://www.vldb.org/pvldb/vol16/p1629-zhang.pdf) (optional)
 
 
 
@@ -47,6 +49,7 @@ In this lecture, you will learn:
 * **Lec10a:** [video](https://edstem.org/us/courses/53518/discussion/4719904)
 * **Lec10b:** [video](https://edstem.org/us/courses/53518/discussion/4739092)
 * **Lec10c:** [video](https://edstem.org/us/courses/53518/discussion/4770208)
+* **Lec10d:** [video]()
 
 
 
