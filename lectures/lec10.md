@@ -40,7 +40,9 @@ In this lecture, you will learn:
 
 * **Lec10a:** [Andy Warfield's interview about S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 * **Lec10b+10c:** [Dynamo paper](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html), [DynamoDB -- 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later) (optional)
-* **Lec10d:** [InfiniCache paper](https://www.usenix.org/conference/fast20/presentation/wang-ao) (optional), [InfiniStore paper](https://www.vldb.org/pvldb/vol16/p1629-zhang.pdf) (optional)
+* **Lec10d:** [InfiniCache paper](https://www.usenix.org/conference/fast20/presentation/wang-ao) (optional), 
+[Blog article](https://mikhail.io/2020/03/infinicache-distributed-cache-on-aws-lambda/),
+[InfiniStore paper](https://www.vldb.org/pvldb/vol16/p1629-zhang.pdf) (optional)
 
 
 
