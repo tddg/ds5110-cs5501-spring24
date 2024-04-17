@@ -51,11 +51,13 @@ In this lecture, you will learn:
 * **Lec10a:** [video](https://edstem.org/us/courses/53518/discussion/4719904)
 * **Lec10b:** [video](https://edstem.org/us/courses/53518/discussion/4739092)
 * **Lec10c:** [video](https://edstem.org/us/courses/53518/discussion/4770208)
-* **Lec10d:** [video]()
+* **Lec10d:** [video](https://edstem.org/us/courses/53518/discussion/4786651)
 
 
 
 ### Quiz
 
 * [Quiz 9](https://docs.google.com/forms/d/e/1FAIpQLSeNa0iegFd68ZTRMjFX_3v50KQSTR5gT5Pjt6smgcoaTvwYhA/viewform?usp=sf_link)
+* [Feedback form (Quiz 10)]()
+
 
