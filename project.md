@@ -131,9 +131,38 @@ submissions formatted with other templates are invalid.
 
 
 
+### Project presentation format
+
+
+The final project presentations will consist of **both** an
+**in-class lightning presentation** and **a longer video-recorded
+presentation** as part of the final submissions. As there are around
+28 teams, the presentations will be split into two days: (1)
+Wednesday, 04/24, and (2) Monday, 04/29. The first day slot will
+accommodate around 14 teams, with the remaining 14 teams presenting
+on the second day.
+
+To follow a commonly used format in online conferences, each team
+will have 5 minutes for the in-class lightning talk, with 3-4 minutes
+dedicated to the actual presentation and 1-to-2 minutes for Q&A. We
+will give a reminder at the 4-minute mark during your in-class
+presentation. *Please be mindful about the timing when preparing your
+slides! We don't want to run over time as some students have another
+class scheduled at 5pm.*
+
+**Additionally**, each team will prepare a 10-to-15-minute video
+recording for a formal presentation, which will be included as part
+of the final project deliverable (see next section) due by May 1st.
+*So, do not worry if you could not include all the exciting stuff in
+the limited, 5-minute in-class presentation slot. You will add those
+in your recording.*
+
+
+
 ### Final project submission
 
-Please prepare a 10-minute presentation and record your presentation.
+Please prepare a 10-to-15-minute presentation and record your
+presentation.
 
 Submit everything by 11:59pm on Wednesday, 05/01, including:
 
