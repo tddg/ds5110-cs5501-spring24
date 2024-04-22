@@ -58,6 +58,6 @@ In this lecture, you will learn:
 ### Quiz
 
 * [Quiz 9](https://docs.google.com/forms/d/e/1FAIpQLSeNa0iegFd68ZTRMjFX_3v50KQSTR5gT5Pjt6smgcoaTvwYhA/viewform?usp=sf_link)
-* [Feedback form (Quiz 10)]()
+* [Informal feedback form (Quiz 10)](https://docs.google.com/forms/d/e/1FAIpQLSdvDDOiHV2E_MeS0O-4iwlCZaGWNBDDOSJcAdrdNfQRxnvlrg/viewform?usp=sf_link)
 
 
