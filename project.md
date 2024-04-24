@@ -7,6 +7,9 @@ nav_order: 6
 
 # Project
 
+Day 1 file [link](https://drive.google.com/file/d/18zZNPG_g_U95AtWlLUNq8nr_5F7HP-RG/view)
+
+
 ## Milestone and Deadlines
 
 0. Friday, 03/01, 11:00 am: Project bidding
