@@ -12,14 +12,14 @@ Day 1 file [link](https://drive.google.com/file/d/18zZNPG_g_U95AtWlLUNq8nr_5F7HP
 
 ## Milestone and Deadlines
 
-0. Friday, 03/01, 11:00 am: Project bidding
+0. ~~Friday, 03/01, 11:00 am: Project bidding~~
 
 
-1. Friday, 03/22, 11:00 am: Project checkpoint 1
+1. ~~Friday, 03/22, 11:00 am: Project checkpoint 1~~
 
 	* Proposal phase: report any preliminary results that you have.
 
-2. Friday, 04/12, 11:00 am: Project checkpoint 2
+2. ~~Friday, 04/12, 11:00 am: Project checkpoint 2~~
 
 	* For data systems projects, you are expected to show prototypes.
 	* For data analysis projects, you are expected to show general statistics of your datasets and concrete examples or case studies.
