@@ -8,6 +8,7 @@ nav_order: 6
 # Project
 
 Day 1 file [link](https://drive.google.com/file/d/18zZNPG_g_U95AtWlLUNq8nr_5F7HP-RG/view)
+Day 2 file [link](https://drive.google.com/file/d/1ufor36tCYtduhygg8HHfZxH08LnRoQE9/view?usp=sharing)
 
 
 ## Milestone and Deadlines
