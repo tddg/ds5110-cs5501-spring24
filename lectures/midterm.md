@@ -10,7 +10,7 @@ nav_order: 6
 
 ### Slides
 
-* Midterm review: [slides pdf](/ds5110-cs5501-spring24/assets/docs/midterm-review.pdf)
+* Midterm review: [slides pdf](#)
 
 
 ### Lecture video
